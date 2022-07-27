@@ -1,0 +1,7 @@
+﻿  ex_5.c
+C:\Users\Victor\source\repos\ex_5\ex_5\ex_5.c(85,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "Dictionary *"
+C:\Users\Victor\source\repos\ex_5\ex_5\ex_5.c(85,10): warning C4313: printf: конфликт "%d" в строке формата с аргументом 1 типа "Dictionary *"
+C:\Users\Victor\source\repos\ex_5\ex_5\ex_5.c(151,29): warning C4047: функция: "Word *" отличается по уровням косвенного обращения от "Word **"
+C:\Users\Victor\source\repos\ex_5\ex_5\ex_5.c(151,13): warning C4024: FreeWords: различные типы для формального и фактического параметров 1
+C:\Users\Victor\source\repos\ex_5\ex_5\ex_5.c(391,7): warning C4101: aproval: неиспользованная локальная переменная
+  ex_5.vcxproj -> C:\Users\Victor\source\repos\ex_5\x64\Debug\ex_5.exe
